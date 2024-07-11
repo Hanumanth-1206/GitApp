@@ -1,1 +1,2 @@
 This is example for git
+New branch b2 is created
